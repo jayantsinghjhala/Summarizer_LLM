@@ -14,8 +14,8 @@ Before you begin, ensure you have the following installed:
 1. Open a terminal or command prompt.
 2. Clone the repository:
 
-```git clone https://github.com/jayantsinghjhala/Summarizer_LLM.git
-cd Summarizer_LLM```
+```git clone https://github.com/jayantsinghjhala/Summarizer_LLM.git```
+```cd Summarizer_LLM```
 
 ## Frontend Setup
 
