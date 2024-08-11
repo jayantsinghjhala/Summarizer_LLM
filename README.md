@@ -14,22 +14,32 @@ Before you begin, ensure you have the following installed:
 1. Open a terminal or command prompt.
 2. Clone the repository:
 
-```git clone https://github.com/jayantsinghjhala/Summarizer_LLM.git```
-```cd Summarizer_LLM```
+```
+git clone https://github.com/jayantsinghjhala/Summarizer_LLM.git
+```
+```
+cd Summarizer_LLM
+```
 
 ## Frontend Setup
 
 1. Navigate to the React frontend directory:
 
-```cd react_frontend```
+```
+cd react_frontend
+```
 
 2. Install dependencies:
 
-```npm install```
+```
+npm install
+```
 
 3. Start the development server:
 
-```npm start```
+```
+npm start
+```
 
 The frontend should now be running on `http://localhost:3000`.
 
@@ -37,11 +47,15 @@ The frontend should now be running on `http://localhost:3000`.
 
 1. Navigate to the Flask backend directory:
 
-```cd ../flask_backend```
+```
+cd ../flask_backend
+```
 
 2. Create a virtual environment:
 
-```python -m venv venv```
+```
+python -m venv venv
+```
 
 3. Activate the virtual environment:
 - On Windows:
@@ -55,11 +69,15 @@ The frontend should now be running on `http://localhost:3000`.
 
 4. Install dependencies:
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 5. Start the Flask server:
 
-```flask run```
+```
+flask run
+```
 
 The backend should now be running on `http://localhost:5000`.
 
